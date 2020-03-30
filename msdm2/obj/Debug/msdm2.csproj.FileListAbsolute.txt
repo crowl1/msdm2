@@ -1,0 +1,17 @@
+C:\Users\crowli\source\repos\msdm2\msdm2\bin\Debug\msdm2.exe.config
+C:\Users\crowli\source\repos\msdm2\msdm2\bin\Debug\msdm2.exe
+C:\Users\crowli\source\repos\msdm2\msdm2\bin\Debug\msdm2.pdb
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\msdm2.csprojAssemblyReference.cache
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\msdm2_MarkupCompile.cache
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\msdm2_MarkupCompile.lref
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\msdm2.g.resources
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\msdm2.Properties.Resources.resources
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\msdm2.csproj.GenerateResource.cache
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\msdm2.exe
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\msdm2.pdb
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\View\MainWindow.g.cs
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\View\MainWindow.baml
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\App.g.cs
+C:\Users\crowli\source\repos\msdm2\msdm2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crowli\source\repos\msdm2\msdm2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\crowli\source\repos\msdm2\msdm2\obj\Debug\msdm2.csproj.CopyComplete
